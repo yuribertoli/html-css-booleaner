@@ -1,0 +1,11 @@
+#img-header {
+    height: 150px;
+    background-color: rgb(19, 84, 182);
+    position: relative;
+}
+
+#img-header img {
+    position: absolute;
+    height: 100%;
+}
+
