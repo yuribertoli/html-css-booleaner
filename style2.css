@@ -1,11 +1,16 @@
 .container {
-    width: 85%;
+    width: 80%;
     margin: auto;
 }
 
 .style2 {
     position: relative;
-    width: 85%;
+    width: 80%;
     margin: auto;
     height: 150px;
+}
+
+body {
+    margin: 0;
+    padding-bottom: 50px;
 }
