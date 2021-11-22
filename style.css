@@ -1,6 +1,6 @@
 #img-header {
     height: 150px;
-    background-color: rgb(19, 84, 182);
+    background-color: rgb(67, 120, 199);
     position: relative;
 }
 
@@ -9,3 +9,24 @@
     height: 100%;
 }
 
+#img-top {
+    height: 60px;
+}
+
+main h1 {
+    font-size: 3em;
+}
+
+.sottotitolo {
+    color: rgb(102, 96, 96);
+    font-family: 'Merriweather', serif;
+}
+
+.sottotitolo a {
+    text-decoration: none;
+    color: rgb(67, 120, 199);
+}
+
+.sottotitolo span {
+    font-size: 0.7em;
+}
