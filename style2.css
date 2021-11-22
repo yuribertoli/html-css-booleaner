@@ -2,3 +2,10 @@
     width: 85%;
     margin: auto;
 }
+
+.style2 {
+    position: relative;
+    width: 85%;
+    margin: auto;
+    height: 150px;
+}
