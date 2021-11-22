@@ -5,7 +5,7 @@ body {
 
 #img-header {
     height: 150px;
-    background-color: rgb(67, 120, 199);
+    background-color: rgba(78,160,255,255);
     position: relative;
 }
 
@@ -55,12 +55,12 @@ table {
 }
 
 #table-top {
-    background-color: rgb(50, 135, 231);
+    background-color: rgba(32,169,229,255);
     color: white;
 }
 
 .table-row {
-    background-color: rgb(70, 204, 228);
+    background-color: rgba(177,229,242,255);
 }
 
 .column {
@@ -71,6 +71,9 @@ th {
     text-align: left;
 }
 
-footer > img {
-    display: block;
+footer h3 {
+    color: rgb(121, 121, 121);
+    font-weight: 900;
+    font-size: 0.9em;
+    font-family: Arial, Helvetica, sans-serif;
 }
