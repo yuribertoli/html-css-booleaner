@@ -49,6 +49,11 @@ ul {
     margin-left: 15px;
 }
 
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
 #table-top {
     background-color: rgb(50, 135, 231);
     color: white;
@@ -56,4 +61,16 @@ ul {
 
 .table-row {
     background-color: rgb(70, 204, 228);
+}
+
+.column {
+    width: 200px;
+}
+
+th {
+    text-align: left;
+}
+
+footer > img {
+    display: block;
 }
